@@ -1,2 +1,2 @@
 # Jmeter-Jenkin
-Integration of Jmter-Jnekin
+Integration of Jmeter-Jnekin
